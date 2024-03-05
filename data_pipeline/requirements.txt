@@ -1,0 +1,5 @@
+Faker==8.16.0
+google-cloud-storage==1.44.0
+google-cloud-core==1.7.2
+apache-beam[gcp]==2.53.0
+apache-airflow==2.8.2
