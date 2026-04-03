@@ -1,0 +1,5 @@
+name = "Batchloader"
+desc = "batchloader function"
+src_arch_bkt = "sharaon-code-bucket"
+src_arch_obj = "batchloader.zip"
+ent_pt = "batchloader"

@@ -1,0 +1,1 @@
+{"BigQuery Schema":[{"name":"typeid","type":"INTEGER"},{"name":"type_name","type":"STRING"},{"name":"phone_number","type":"STRING"},{"name":"start_date","type":"DATE"},{"name":"start_time","type":"TIME"},{"name":"end_date","type":"DATE"},{"name":"end_time","type":"TIME"},{"name":"data_used","type":"FLOAT"},{"name":"call_duration","type":"TIME"}]}

@@ -1,0 +1,6 @@
+code_bucket = "sharaon-code-bucket"
+logs_bucket = "sharaon-logs-bucket"
+stage_data_bucket = "sharaon-stage-data-bucket"
+current_data_folder = "current/"
+archive_data_folder = "archive/"
+logs_temp_folder = "temp/"
